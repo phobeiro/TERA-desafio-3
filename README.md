@@ -11,3 +11,7 @@ Acredito que as features utilizadas foram boas o suficiente para a situalçao. E
 ### Edit:
 
 Ao conseguir rodar um notebook utilizando GPU, o XGBoost foi o melhor modelo de todos. Ultra rápido e com as melhores métricas. Fiquei bastante surpreso.
+
+<center> <img src="https://media.giphy.com/media/izspP6uMbMeti/giphy.gif" width=500>
+
+
