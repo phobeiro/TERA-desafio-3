@@ -14,4 +14,3 @@ Ao conseguir rodar um notebook utilizando GPU, o XGBoost foi o melhor modelo de 
 
 <center> <img src="https://media.giphy.com/media/izspP6uMbMeti/giphy.gif" width=500>
 
-
