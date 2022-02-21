@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # TERA Desafio3 - Classificação
 
 Dentre os modelos experimentados, os que envolvem árvores foram superiores ao logístico.
@@ -9,6 +8,6 @@ Eu queria ter uma resposta definitiva sobre o treinamento dos modelos. Porém n�
 
 Acredito que as features utilizadas foram boas o suficiente para a situalçao. Eu criei uma feature que diz se a conta está sendo utilizada pela primeira vez.
 
-## Edit:
+### Edit:
 
 Ao conseguir rodar um notebook utilizando GPU, o XGBoost foi o melhor modelo de todos. Ultra rápido e com as melhores métricas. Fiquei bastante surpreso.
