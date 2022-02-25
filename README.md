@@ -17,6 +17,6 @@ Ao conseguir rodar um notebook utilizando GPU, o **XGBoost** foi o melhor modelo
 
 ## Edit 2:
 
-Durante a resolução do desafio, a especialista da Tera transformou a variável ```amount``` em categórica. Resolvi experimentar no meu modelo e o resultado foi excelente, uma vez que otimizou meu treinamento usando CPU.
+Durante a resolução do desafio, a especialista da Tera transformou a variável ```amount``` em categórica utilizando faixas de valor e rótulos. Resolvi experimentar no meu modelo e o resultado foi excelente, uma vez que otimizou meu treinamento usando CPU e melhorou bastante as previsões também.
 
-Utilizando **RandomForrest** e **XGBoost** eu saí com dois modelos que são ótimos em coisas distintas: o modelo de **RandomForrest** é ótimo em identificar fraudes; já o **XGBoost** se mostrou eficiente na identificação das não-fraudes.
+Utilizando o **XGBoost** com dados *balanceados*, utilizando o método **SMOTEENN**, e com dados *desbalanceados*, obtive dois modelos que são ótimos em coisas distintas: o modelo treinado com dados *desbalanceados* é ótimo em identificar fraudes; já que treinou com dados *balanceados* se mostrou eficiente na identificação das não-fraudes, ou seja, transações normais.
